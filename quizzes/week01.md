@@ -15,7 +15,7 @@ making a directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+the root tag of a webpage
 ```
 
 **4.** What does `HTML` stand for?
@@ -27,7 +27,7 @@ HyperText Markup Language
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-Cascading Style Sheet
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,13 +38,13 @@ Cascading Style Sheet
 ```
 <!-- enter you answer in the space below -->
 ```
-
+a selector (h1.main-title), a property (color), and a value (rgba(255, 210, 33, .75))
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+font-weight
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -56,17 +56,17 @@ Cascading Style Sheet
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ol, ul, dl
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+causes an element to decide how child elements are positioned within itself
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width, height, max/min-width/height
 ```
