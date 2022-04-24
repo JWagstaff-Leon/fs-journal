@@ -51,8 +51,10 @@ additional software on an api that allows the basic http functions to behave dif
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
+<!-- REVIEW I couldn't find the answer to this, and am mostly just guessing -->
 ```
-
+1. req
+2. res
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
